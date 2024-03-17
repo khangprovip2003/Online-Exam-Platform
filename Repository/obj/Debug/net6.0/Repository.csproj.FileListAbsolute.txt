@@ -1,0 +1,15 @@
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\bin\Debug\net6.0\appsettings.json
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\bin\Debug\net6.0\Repository.dll
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\bin\Debug\net6.0\Repository.pdb
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.dll
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.pdb
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\FPT\Ky5\PRN211\PROJECT\OnlineExamPlatform\Repository\obj\Debug\net6.0\ref\Repository.dll
